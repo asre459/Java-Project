@@ -38,4 +38,11 @@ public class DiceRoller{
         
         
     }
+
+public string generateRandomNumber(){
+/***
+write code here
+**/
+
+}
 }
